@@ -13,6 +13,8 @@ public class LambdaScope implements JDKTest {
 	@Override
 	public void Test() {
 
+		System.out.println("hello world");
+
 		final Integer num =3;
 		Converter<String,Integer> converter = from -> Integer.valueOf(from) + num;
 		System.out.println(converter.convert("15"));
