@@ -15,6 +15,9 @@ import cn.net.vive.test.test1;
 import jdk8.*;
 import sun.misc.Launcher;
 
+import javax.security.auth.login.Configuration;
+import java.io.IOException;
+import java.io.InputStream;
 import java.lang.annotation.Annotation;
 import java.net.URL;
 import java.util.*;
@@ -23,6 +26,12 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("-----start-------");
+
+		PropertiesTest();
+
+		if (1==1)
+			return;
+
 
 		JDKTest jdkTest = new LambdaScope();
 		jdkTest.Test();
@@ -37,6 +46,17 @@ public class Main {
 		//AnnotationTest();
 
 		System.out.println("-----end-------");
+	}
+
+	private static void PropertiesTest() {
+		//Configuration configuration = new PropertiesConfiguration();
+		InputStream in = ClassLoader.getSystemResourceAsStream("config.properties");
+		Properties p = new Properties();
+		try {
+			p.load(in);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
 	private static void AnonymousClassTest() {
