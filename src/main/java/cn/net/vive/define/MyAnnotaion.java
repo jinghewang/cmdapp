@@ -1,4 +1,4 @@
-package main.java.cn.net.vive.define;
+package cn.net.vive.define;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.Retention;

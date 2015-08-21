@@ -1,6 +1,6 @@
-package main.java.cn.net.vive.test;
+package cn.net.vive.test;
 
-import main.java.cn.net.vive.define.*;
+import cn.net.vive.define.*;
 
 /**
  * <p/>

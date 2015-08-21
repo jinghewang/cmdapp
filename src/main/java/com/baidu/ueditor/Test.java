@@ -1,4 +1,4 @@
-package main.java.com.baidu.ueditor;
+package com.baidu.ueditor;
 
 /**
  * Created by robin on 2015/8/21.

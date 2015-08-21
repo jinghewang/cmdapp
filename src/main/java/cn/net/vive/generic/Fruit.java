@@ -1,4 +1,4 @@
-package main.java.cn.net.vive.generic;
+package cn.net.vive.generic;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package main.java.cn.net.vive.mj;
+package cn.net.vive.mj;
 
 /**
  * <p/>

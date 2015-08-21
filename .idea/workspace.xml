@@ -2,46 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b59bf2eb-07f4-4938-ad36-69b8d0845117" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/baidu/ueditor/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/AbstractClasss.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/AbstractClasss.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWith2Val.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWith2Val.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithDefaultVal.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithDefaultVal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithMyVal.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithMyVal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithVal.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithVal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithoutProperty.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithoutProperty.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Apple.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Apple.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jdk8/Converter.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/Converter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jdk8/FactoryTest.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/FactoryTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jdk8/Formula.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/Formula.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Fruit.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Fruit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Grand.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Grand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloMain.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jdk8/InterfaceDefaultMethod.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/InterfaceDefaultMethod.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jdk8/JDKTest.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/JDKTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jdk8/LambdaScope.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/LambdaScope.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jdk8/LambdaTest.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/LambdaTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/MyAnnotaion.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/MyAnnotaion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/MyAnnotationTest.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/MyAnnotationTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor2.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/MyException.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/MyException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jdk8/MyFormula.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/MyFormula.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P2.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Parent.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Parent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Pear.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Pear.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jdk8/Person.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jdk8/PersonFactory.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/PersonFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S2.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Son.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Son.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/T.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/T.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/Test.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/baidu/ueditor/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/baidu/ueditor/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/TestBase.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/TestBase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmdapp.iml" afterPath="$PROJECT_DIR$/cmdapp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/test1.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/test1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\define\AnnotationWith2Val.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWith2Val.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\define\AnnotationWithDefaultVal.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithDefaultVal.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\define\AnnotationWithMyVal.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithMyVal.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\define\AnnotationWithVal.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithVal.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\define\AnnotationWithoutProperty.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithoutProperty.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\define\MyAnnotaion.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/define/MyAnnotaion.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\generic\Apple.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Apple.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\generic\Fruit.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Fruit.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\generic\MyException.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/MyException.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\generic\Pear.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Pear.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\hello\HelloMain.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloMain.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\hello\HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloWorld.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\mj\MyColor.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\mj\MyColor2.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor2.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\over\Grand.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Grand.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\over\Parent.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Parent.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\over\Son.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Son.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\ps\AbstractClasss.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/AbstractClasss.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\ps\P.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\ps\P2.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P2.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\ps\S.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\ps\S2.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S2.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\ps\T.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/T.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\test\MyAnnotationTest.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/MyAnnotationTest.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\test\Test.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/Test.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\test\TestBase.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/TestBase.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\cn\net\vive\test\test1.java" afterPath="$PROJECT_DIR$/src/main/java/cn/net/vive/test/test1.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\jdk8\Converter.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/Converter.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\jdk8\FactoryTest.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/FactoryTest.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\jdk8\Formula.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/Formula.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\jdk8\InterfaceDefaultMethod.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/InterfaceDefaultMethod.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\jdk8\JDKTest.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/JDKTest.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\jdk8\LambdaScope.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/LambdaScope.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\jdk8\LambdaTest.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/LambdaTest.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\jdk8\MyFormula.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/MyFormula.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\jdk8\Person.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/Person.java" />
-      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\jdk8\PersonFactory.java" afterPath="$PROJECT_DIR$/src/main/java/jdk8/PersonFactory.java" />
+      <change type="MOVED" beforePath="E:\IdeaProjects\cmdapp\src\Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
     </list>
     <ignored path="cmdapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,13 +67,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17838766">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="37" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="method#AnonymousClassTest#0;class#Main#0" expanded="false" />
                 <element signature="method#ClassLoaderTest#0;class#Main#0" expanded="false" />
                 <element signature="method#SignNameTest#0;class#Main#0" expanded="false" />
@@ -86,11 +88,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LambdaScope.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/LambdaScope.java">
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Converter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/Converter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractClasss.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/AbstractClasss.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactoryTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/FactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5145798">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Formula.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/Formula.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LambdaTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/LambdaTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/PersonFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyFormula.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/MyFormula.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/ueditor/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -116,17 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/cn/net/vive/define/AnnotationWith2Val.java" />
-        <option value="$PROJECT_DIR$/src/cn/net/vive/mj/mj.java" />
-        <option value="$PROJECT_DIR$/src/cn/net/vive/mj/MyColor.java" />
-        <option value="$PROJECT_DIR$/src/cn/net/vive/mj/MyColor2.java" />
-        <option value="$PROJECT_DIR$/src/cn/net/vive/over/Son.java" />
-        <option value="$PROJECT_DIR$/src/cn/net/vive/over/Parent.java" />
-        <option value="$PROJECT_DIR$/src/cn/net/vive/over/Grand.java" />
-        <option value="$PROJECT_DIR$/src/cn/net/vive/ps/S2.java" />
-        <option value="$PROJECT_DIR$/src/cn/net/vive/ps/AbstractClasss.java" />
-        <option value="$PROJECT_DIR$/src/cn/net/vive/ps/S.java" />
         <option value="$PROJECT_DIR$/src/cn/net/vive/ps/P2.java" />
         <option value="$PROJECT_DIR$/src/cn/net/vive/ps/T.java" />
         <option value="$PROJECT_DIR$/src/cn/net/vive/ps/P.java" />
@@ -147,6 +218,37 @@
         <option value="$PROJECT_DIR$/src/jdk8/FactoryTest.java" />
         <option value="$PROJECT_DIR$/src/jdk8/LambdaScope.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWith2Val.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithDefaultVal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithMyVal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithVal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithoutProperty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/define/MyAnnotaion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Fruit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/MyException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Pear.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Grand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Parent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/over/Son.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/AbstractClasss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/ps/T.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/test/MyAnnotationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/test/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/net/vive/test/test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jdk8/Converter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/baidu/ueditor/Test.java" />
       </list>
     </option>
   </component>
@@ -333,44 +435,8 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cmdapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cmdapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cmdapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cmdapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -396,19 +462,23 @@
     <property name="options.lastSelected" value="fileTemplates" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26436782" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\cmdapp\src\main\resources" />
       <recent name="F:\迅雷下载\cmdapp\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\cmdapp\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.net.vive.mj" />
@@ -693,7 +763,7 @@
       <workItem from="1434509935931" duration="1306000" />
       <workItem from="1434679289106" duration="91000" />
       <workItem from="1438325653954" duration="476000" />
-      <workItem from="1440118509264" duration="2307000" />
+      <workItem from="1440118509264" duration="3201000" />
     </task>
     <task id="LOCAL-00001" summary="hello world">
       <created>1438325980134</created>
@@ -701,11 +771,17 @@
       <option name="project" value="LOCAL" />
       <updated>1438325980134</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="调整目录">
+      <created>1440124030698</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1440124030698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47223000" />
+    <option name="totallyTimeSpent" value="48117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -724,6 +800,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20499243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -739,7 +816,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -786,19 +862,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello world" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
+    <MESSAGE value="调整目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
           <line>38</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
           <line>194</line>
           <properties />
           <option name="timeStamp" value="11" />
@@ -858,13 +935,13 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -877,192 +954,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/nio/Buffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33187774">
-          <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="456" column="19" selection-start-line="456" selection-start-column="19" selection-end-line="456" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="110" column="38" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/over/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/over/Parent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/over/Grand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/AbstractClasss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#186#187#0" expanded="false" />
-            <element signature="e#201#202#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/T.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/generic/MyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="135" column="19" selection-start-line="135" selection-start-column="19" selection-end-line="135" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Pear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="623" column="23" selection-start-line="623" selection-start-column="23" selection-end-line="623" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="121" column="29" selection-start-line="121" selection-start-column="29" selection-end-line="121" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Hashtable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1098,34 +989,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/rt.jar!/sun/misc/Launcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07818182">
-          <caret line="162" column="29" selection-start-line="162" selection-start-column="25" selection-end-line="162" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3321739">
           <caret line="1430" column="45" selection-start-line="1430" selection-start-column="45" selection-end-line="1430" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,41 +1010,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/Formula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/MyFormula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="764" column="26" selection-start-line="764" selection-start-column="26" selection-end-line="764" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/Converter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34246576">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1187,17 +1023,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="30" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="30" />
           <folding>
-            <element signature="e#272#273#0" expanded="false" />
-            <element signature="e#293#294#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#283#284#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/PersonFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34246576">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,14 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.72602737">
           <caret line="40" column="46" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/FactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51369864">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1233,10 +1053,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/ueditor/Test.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/rt.jar!/sun/misc/Launcher.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17123288">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state vertical-scroll-proportion="-3.392857">
+          <caret line="245" column="0" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithDefaultVal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithMyVal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithVal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWithoutProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/define/MyAnnotaion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#249#250#0" expanded="false" />
+            <element signature="e#268#269#0" expanded="false" />
+            <element signature="e#302#303#0" expanded="false" />
+            <element signature="e#327#328#0" expanded="false" />
+            <element signature="e#378#379#0" expanded="false" />
+            <element signature="e#398#399#0" expanded="false" />
+            <element signature="e#450#451#0" expanded="false" />
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#525#526#0" expanded="false" />
+            <element signature="e#544#545#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/generic/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Pear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/over/Grand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/over/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/over/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/P2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/S2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/test/MyAnnotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/test/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/test/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27444252">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1249,12 +1247,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17838766">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/hello/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/generic/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/define/AnnotationWith2Val.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/mj/MyColor2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/net/vive/ps/AbstractClasss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/baidu/ueditor/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/Converter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/Formula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/MyFormula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/PersonFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#AnonymousClassTest#0;class#Main#0" expanded="false" />
             <element signature="method#ClassLoaderTest#0;class#Main#0" expanded="false" />
             <element signature="method#SignNameTest#0;class#Main#0" expanded="false" />
@@ -1266,6 +1367,22 @@
             <element signature="method#IntTest#0;class#Main#0" expanded="false" />
             <element signature="method#EnumTest#0;class#Main#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdk8/FactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5145798">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1326,6 +1443,7 @@
             <option name="proportions">
               <list>
                 <option value="0.26436782" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

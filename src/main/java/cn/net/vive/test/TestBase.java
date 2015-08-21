@@ -1,7 +1,7 @@
-package main.java.cn.net.vive.test;
+package cn.net.vive.test;
 
-import main.java.cn.net.vive.define.AnnotationWithDefaultVal;
-import main.java.cn.net.vive.define.AnnotationWithVal;
+import cn.net.vive.define.AnnotationWithDefaultVal;
+import cn.net.vive.define.AnnotationWithVal;
 
 /**
  * <p>
